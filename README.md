@@ -2,11 +2,11 @@
 
 ## Strategy | Research | Project Management | Aspiring Data Analyst
 
-- 😎 I was a Project Manager-cum-Brand Consultant for more than 3 years. 
-- 🔥 I am currently self-learning Python and SQL.
-- 🤝 I am looking to grow my knowledge by working on projects, and hope to eventually start working with other people. 
-- 🏃 I am still a WIP, so any advice is very much appreciated! 
-- 🍣 Fun fact: I really love exploring new food. 
+- 😎  I was a Project Manager-cum-Brand Consultant for more than 3 years. 
+- 🔥  I am currently self-learning Python and SQL.
+- 🤝  I am looking to grow my knowledge by working on projects, and hope to eventually start working with other people. 
+- 🏃  I am still a WIP, so any advice is very much appreciated! 
+- 🍣  Fun fact: I really love exploring new food. 
 
 
 ### Language and Tools  
