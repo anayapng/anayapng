@@ -1,3 +1,4 @@
+<img src="https://github.com/anayapng/anayapng/blob/main/header.png">
 ### Hi, I'm Anaya 👋
 
 <!--
