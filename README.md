@@ -27,8 +27,6 @@
 </div>  
   
  <br/>  
-  
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=anayapng&show_icons=true&theme=dracula)
- <br/> 
+
   
 ![Anaya Png's GitHub stats](https://github-readme-stats.vercel.app/api?username=anayapng&show_icons=true&theme=dracula)
