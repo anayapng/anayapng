@@ -6,7 +6,7 @@
 - 🔥  I am currently self-learning Python and SQL.
 - 🤝  I am looking to grow my knowledge by working on projects, and hope to eventually start working with other people. 
 - 🏃  I am still a WIP, so any advice is very much appreciated! 
-- 🍣  Fun fact: I really love exploring new food. 
+- 🍣  Fun fact: I really love trying new food, especially Asian cuisine. 
 
 
 ### Language and Tools  
